@@ -4,7 +4,7 @@ awesome Go Backend for our state of the art react app , and maybe an upcoming fl
 ## Development Rules
 - Don't push directly to main (ever)
 - Don't push to dev directly either.
-- Try creating PR's and tag @shreyamMaity or @unownone for codereviews.
+- Try creating PR's and tag [@shreyamMaity](https://github.com/shreyamMaity) or [@unownone](https://github.com/unownone) for codereviews.
 - Create individual branches pulling from `dev` branch whenever implementing a bugfix or a new feature.
 - Add test cases everytime you add something new.
 - Make sure you don't merge without a PR.
